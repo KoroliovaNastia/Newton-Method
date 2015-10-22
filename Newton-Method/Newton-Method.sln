@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newton-Method", "Newton-Method\Newton-Method.csproj", "{FC50B65F-1608-4168-8C9C-BCC8F3DF869D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNewton-Method", "UnitTestNewton-Method\UnitTestNewton-Method.csproj", "{7D685A05-37D6-4A41-B63F-DA0A2A1FBC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC50B65F-1608-4168-8C9C-BCC8F3DF869D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC50B65F-1608-4168-8C9C-BCC8F3DF869D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC50B65F-1608-4168-8C9C-BCC8F3DF869D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC50B65F-1608-4168-8C9C-BCC8F3DF869D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D685A05-37D6-4A41-B63F-DA0A2A1FBC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D685A05-37D6-4A41-B63F-DA0A2A1FBC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D685A05-37D6-4A41-B63F-DA0A2A1FBC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D685A05-37D6-4A41-B63F-DA0A2A1FBC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
